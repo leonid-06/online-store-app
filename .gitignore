@@ -1,0 +1,94 @@
+# Archivos generados automáticamente que no deben subirse al repositorio
+
+# Ignorar la carpeta de compilación de Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Archivos de configuración específicos de STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# Archivos específicos de IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+*.log
+*.swp
+
+# Archivos específicos de NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Archivos específicos de Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Ignorar archivos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignorar archivos de sistema macOS
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.DS_Store
+.fseventsd
+
+# Archivos de logs y dumps de Spring Boot
+logs/
+*.log
+*.trace
+hs_err_pid*
+*.pid
+dump.rdb
+
+# Ignorar dependencias descargadas por Maven
+.mvn/
+**/target/
+dependency-reduced-pom.xml
+
+# Archivos de caché y temporales de Java/Maven
+*.class
+*.war
+*.jar
+*.ear
+
+# Archivos de seguridad (claves y certificados)
+*.pem
+*.crt
+*.key
+*.pfx
+
+# Archivos de configuración específicos de la aplicación
+HELP.md
+
+# Configuración de Docker (si usas Docker)
+docker-compose.override.yml
+.docker/
+docker-sync.yml
