@@ -218,6 +218,9 @@ docker-compose logs # Ver logs
 <img width="1511" alt="Prueba 1" src="https://github.com/user-attachments/assets/405bb1db-07ba-4920-a5b1-7119823820d3" />
 <img width="1511" alt="Prueba 9" src="https://github.com/user-attachments/assets/7e13f5c6-6b07-4ad7-90f0-598cecd393ad" />
 <img width="1511" alt="Prueba 8" src="https://github.com/user-attachments/assets/9ccb2d23-bb9f-4724-8218-3e14d74ed423" />
+<img width="1511" alt="Pruebaaa" src="https://github.com/user-attachments/assets/e8215e4e-0f8e-4481-9376-92c82ff47f99" />
+<img width="1509" alt="pruebaa" src="https://github.com/user-attachments/assets/3769b194-38e9-4ec7-9a66-f3a72a1cbef6" />
+
 
 ## 🛑 Solución de Errores Comunes
 
